@@ -60,6 +60,10 @@
     color: var(--lm-text);
     font-weight: bold;
   }
+ #mode-icon{
+    width: 23px;
+    height:23px;
+  }
   
   #btn-mode:hover {
     cursor: pointer;
